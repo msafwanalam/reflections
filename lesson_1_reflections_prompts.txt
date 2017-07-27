@@ -1,0 +1,21 @@
+The diff command gave me the option to spot 
+a bug without having to look manually. 
+
+
+Knowing what I did in the past adds to efficiency since i 
+will be able to recognize previous additions made and how
+it affected the program. It can also work as a backup in case
+any programming goes poorly. 
+
+They add different files at a time because google docs is
+designed to handle one document not many.
+
+They help me keep track of my progress and what I need and
+don't need to do
+
+It would make me more confident because i know that there is
+a backup that will save me if things go awry
+
+I want to use the workspace provided by git on a lot of my home projects
+because it is powerful in the sense that i would like to 
+see the progression of my work. 
